@@ -1,6 +1,6 @@
 # Sunbeam extension sbx_bowtie2_mapping
 
-This is a Sunbeam (https://github.com/sunbeam-labs) extension to map reads back to target genome using bowtie2 global alignment. This is a alternative way for default sunbeam "mapping" method, which use BWM, which based local alignment.
+This is a Sunbeam (https://github.com/sunbeam-labs) extension to map reads back to target genome using bowtie2 global alignment. This is an alternative way for default sunbeam "mapping" method, which uses local alignment.
 
 # Installing and running
 
